@@ -1,4 +1,4 @@
-//Task 1:
+//Task 1: Write a program to check if a number is positive, negative, or zero, and log the result to the console.
 const number = 10
 if(number > 0) {
     console.log("Positive");
@@ -8,12 +8,12 @@ else if(number = 0){
 }
 else console.log("Negative");
 
-//Task 2:
+//Task 2: Write a program to check if a person is eligible to vote (age >= 18) and log the result to the console.
 const age = 21
 if(age >= 18) console.log("Eligible to vote");
 else console.log("Not eligible to vote");
 
-//Task 3:
+//Task 3: Write a program to find the largest of three numbers using nested if-else statements.
 const firstNumber = 10
 const secondNumber = 20
 const thirdNumber = 30
@@ -26,7 +26,7 @@ else {
     else console.log(thirdNumber, "is the largest number");
 }
 
-//Task 4:
+//Task 4: Write a program that uses a switch case to determine the day of the week based on a number (1-7) and log the day name to the console.
 month = 4
 switch (month) {
     case 1:
@@ -56,7 +56,7 @@ switch (month) {
         break;
 }
 
-//Task 5:
+//Task 5: Write a program that uses a switch case to assign a grade ('A', 'B', 'C', 'D', 'F) based on a score and log the grade to the console.
 const score = 95
 let grade;
 switch (true) {
@@ -78,10 +78,10 @@ switch (true) {
         
 console.log("Your grade is:", grade);
 
-//Task 6:
+//Task 6: Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
 const eveOrOdd = 10
 console.log(eveOrOdd % 2 == 0 ? "Even Number" : "Odd Number");
 
-//Task 7:
+//Task 7: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
 const year = 2000
 if((year%4 === 0) && (year%100 != 0) || (year%400 === 0)) console.log("Leap year"); 
