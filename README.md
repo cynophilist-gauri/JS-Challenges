@@ -18,7 +18,7 @@
 4. Grade Assignment Script: Create a script that uses a switch case to assign a grade based on a score and logs the grade.
 5. Leap Year Check Script: Write a script that checks if a year is a leap year using multiple conditions and logs the result.
 
-## Day : Loops
+## Day 4: Loops
 1. Number Printing Script: Write a script that prints numbers from 1 to 10 using a for loop and a while loop.
 2. Multiplication Table Script: Create a script that prints the multiplication table of 5 using a for loop.
 3. Pattern Printing Script: Write a script that prints a pattern of stars using nested loops.
