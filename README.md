@@ -24,3 +24,4 @@
 3. Pattern Printing Script: Write a script that prints a pattern of stars using nested loops.
 4. Sum Calculation Script: Write a script that calculates the sum of numbers from 1 to 10 using a while loop.
 5. Factorial Calculation Script: Create a script that calculates the factorial of a number using a do ... while loop.
+
