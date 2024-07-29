@@ -31,3 +31,9 @@
 3. Concatenation Function Script: Write a script that includes a function expression to concatenate two strings and returns the result.
 4. Sum Calculation Arrow Function Script: Create a script that includes an arrow function to calculate the sum of two numbers and returns the result.
 5. Higher-Order Function Script: Write a script that includes a higher-order function to apply a given function multiple times.
+
+## Day 6: Arrays
+1. Array Manipulation Script: Write a script that demonstrates the creation of an array, adding and removing elements using push , pop, shift, and unshift methods.
+2. Array Transformation Script: Create a script that uses map, filter, and reduce methods to transform and aggregate array data.
+3. Array Iteration Script: Write a script that iterates over an array using both for loop and forEach method and logs each element.
+4. Two-dimensional Array Script: Create a script that demonstrates the creation and manipulation of a two-dimensional array.
