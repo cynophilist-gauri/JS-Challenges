@@ -25,3 +25,9 @@
 4. Sum Calculation Script: Write a script that calculates the sum of numbers from 1 to 10 using a while loop.
 5. Factorial Calculation Script: Create a script that calculates the factorial of a number using a do ... while loop.
 
+## Day 5: Functions
+1. Even or Odd Function Script: Write a script that includes a function to check if a number is even or odd and logs the result.
+2. Square Calculation Function Script: Create a script that includes a function to calculate the square of a number and returns the result.
+3. Concatenation Function Script: Write a script that includes a function expression to concatenate two strings and returns the result.
+4. Sum Calculation Arrow Function Script: Create a script that includes an arrow function to calculate the sum of two numbers and returns the result.
+5. Higher-Order Function Script: Write a script that includes a higher-order function to apply a given function multiple times.
