@@ -37,3 +37,8 @@
 2. Array Transformation Script: Create a script that uses map, filter, and reduce methods to transform and aggregate array data.
 3. Array Iteration Script: Write a script that iterates over an array using both for loop and forEach method and logs each element.
 4. Two-dimensional Array Script: Create a script that demonstrates the creation and manipulation of a two-dimensional array.
+
+## Day 7: Objects:
+1. Book Object Script: Write a script that creates a book object, adds methods to it, and logs its properties and method results.
+2. Library Object Script: Create a script that defines a library object containing an array of book objects and logs the library's details.
+3. Object Iteration Script: Write a script that demonstrates iterating over an object's properties using for ... in loop and Object.keys / Object.values.
