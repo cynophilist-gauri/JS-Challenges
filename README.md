@@ -42,3 +42,10 @@
 1. Book Object Script: Write a script that creates a book object, adds methods to it, and logs its properties and method results.
 2. Library Object Script: Create a script that defines a library object containing an array of book objects and logs the library's details.
 3. Object Iteration Script: Write a script that demonstrates iterating over an object's properties using for ... in loop and Object.keys / Object.values.
+
+## Day 8: ES6+ Features
+1. Template Literals Script: Write a script that demonstrates the use of template literals to create and log strings with embedded variables and multi-line strings.
+2. Destructuring Script: Create a script that uses array and object destructuring to extract values and log them.
+3. Spread and Rest Operators Script: Write a script that demonstrates the use of the spread operator to combine arrays and the rest operator to handle multiple function arguments.
+4. Default Parameters Script: Create a script that defines a function with default parameters and logs the results of calling it with different arguments.
+5. Enhanced Object Literals Script: Write a script that uses enhanced object literals to create and log an object with methods and computed property names.
