@@ -49,3 +49,13 @@
 3. Spread and Rest Operators Script: Write a script that demonstrates the use of the spread operator to combine arrays and the rest operator to handle multiple function arguments.
 4. Default Parameters Script: Create a script that defines a function with default parameters and logs the results of calling it with different arguments.
 5. Enhanced Object Literals Script: Write a script that uses enhanced object literals to create and log an object with methods and computed property names.
+
+## Day 9: DOM Manipulation
+1. Text Content Manipulation Script: Write a script that selects an HTML element by its ID and changes its
+text content.
+2. Element Creation Script: Create a script that demonstrates creating a new div element and appending it
+to the body.
+3. Element Removal Script: Write a script that selects an HTML element and removes it from the DOM.
+4. Attribute Modification Script: Create a script that changes the attributes of an HTML element.
+5. Event Handling Script: Write a script that adds event listeners to HTML elements to change their content
+or style based on user interactions.
